@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-950 text-gray-100 min-h-screen flex flex-col">
     <!-- Header -->
-    <header class="bg-[#292D32] shadow-md py-4">
+    <header class="bg-[#292D32] shadow-md py-4 sticky w-full top-0 z-50">
       <div class="container px-8">
         <NuxtLink to="/">
           <h1 class="text-2xl font-bold">Test Task</h1>
